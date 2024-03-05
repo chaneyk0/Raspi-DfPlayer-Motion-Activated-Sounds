@@ -1,2 +1,2 @@
 "# Raspi-DfPlayer-Motion-Activated-Sounds" 
-![IMG20231025230333]
+![Wiring](IMG20231025230333)
